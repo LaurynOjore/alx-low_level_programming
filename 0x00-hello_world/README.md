@@ -1,1 +1,1 @@
-script that runs a C file through the preprocessor
+hello, world assignments

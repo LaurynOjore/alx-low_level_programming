@@ -1,1 +1,1 @@
-My low level programming assignments
+README for the c functions and nested loops
